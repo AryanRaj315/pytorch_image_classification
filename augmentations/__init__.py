@@ -1,4 +1,4 @@
-import augmentations.cutout
-import augmentations.random_erasing
-import augmentations.mixup
-import augmentations.ricap
+import augmentations.augmentations.cutout
+import augmentations.augmentations.random_erasing
+import augmentations.augmentations.mixup
+import augmentations.augmentations.ricap
